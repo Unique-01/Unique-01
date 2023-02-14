@@ -55,9 +55,12 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Unique-01&theme=dark&background=000000)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Unique-01&theme=dark&background=000000)](https://git.io/streak-stats) -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Unique-01&theme=dark&background=030101)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Unique-01&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unique-01" alt="unique" /></a> </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Unique-01&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unique-01" alt="unique" /></a>
+</p> -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Unique-01&theme=vision-friendly-dark&show_icons=true)
 
