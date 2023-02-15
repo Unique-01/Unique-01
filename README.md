@@ -62,5 +62,5 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unique-01" alt="unique" /></a>
 </p> -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Unique-01&theme=vision-friendly-dark&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Unique-01&theme=vision-friendly-dark&show_icons=true)
 
