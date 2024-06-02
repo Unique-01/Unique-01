@@ -24,7 +24,7 @@
   I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;from Nigeria.
   - :telescope: I’m working as a Software Engineer and contributing to backend for building web applications.
 
-- :seedling: Exploring CyberSecurity.
+- :seedling: Exploring Web3.
 
 - :zap: In my free time, **I read, exercise and play to cool my brain.**
 
